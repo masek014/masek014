@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am currently a Physics Ph.D student with interests in Space Physics and
+Astrophysics.
+
 <!--
 **masek014/masek014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
